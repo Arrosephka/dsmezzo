@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DS monogram">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b2520"/>
+      <stop offset="1" stop-color="#12100f"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="17" fill="url(#g)"/>
+  <rect x="7" y="7" width="50" height="50" rx="14" fill="none" stroke="#c8a45d" stroke-width="2" opacity=".9"/>
+  <text x="32" y="39" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" fill="#f7f1e8" letter-spacing="-2">DS</text>
+  <path d="M18 46h28" stroke="#c8a45d" stroke-width="2" stroke-linecap="round" opacity=".85"/>
+</svg>
